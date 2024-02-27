@@ -42,5 +42,8 @@ public class archivo1 {
 		this.ans = ans;
 	}
 	
-	
+	public int suma() {
+		
+		return a+b;
+	}
 }

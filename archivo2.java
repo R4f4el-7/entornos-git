@@ -42,5 +42,8 @@ public class archivo2 {
 		this.ans1 = ans1;
 	}
 	
-	
+	public int producto() {
+		
+		return a1*b1;
+	}
 }
