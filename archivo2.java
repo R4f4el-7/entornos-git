@@ -58,5 +58,9 @@ public class archivo2 {
 		
 		return b1*b1*b1;
 	}
+	public int aProductox(int num){
+		
+		return a1*num;
+	}
 
 }

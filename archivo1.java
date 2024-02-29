@@ -58,4 +58,8 @@ public class archivo1 {
 		
 		return b*b;
 	}
+	public int aSumax(int num){
+		
+		return a+num;
+	}
 }
