@@ -62,4 +62,8 @@ public class archivo1 {
 		
 		return a+num;
 	}
+	public int aRestax(int num){
+		
+		return a+num;
+	}
 }

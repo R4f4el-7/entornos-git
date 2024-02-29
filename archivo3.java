@@ -29,6 +29,9 @@ public class archivo3 {
 	public int apellidoLongitud() {
 		return apellido.length();
 	}
+	public int sumaNomApe() {
+		return nombre.length() + apellido.length();
+	}
 
 	public String getNombre() {
 		return nombre;
