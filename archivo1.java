@@ -46,4 +46,8 @@ public class archivo1 {
 		
 		return a+b;
 	}
+	public int resta() {
+		
+		return a-b;
+	}
 }

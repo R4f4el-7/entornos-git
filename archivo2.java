@@ -46,4 +46,9 @@ public class archivo2 {
 		
 		return a1*b1;
 	}
+	public int division() {
+		
+		return a1/b1;
+	}
+
 }

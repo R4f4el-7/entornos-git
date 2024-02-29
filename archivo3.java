@@ -41,5 +41,10 @@ public class archivo3 {
 	public void setEdad(int edad) {
 		this.edad = edad;
 	}
+
+	@Override
+	public String toString() {
+		return "archivo3 [nombre=" + nombre + ", apellido=" + apellido + ", edad=" + edad + "]";
+	}
 	
 }
