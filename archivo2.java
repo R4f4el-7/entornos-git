@@ -46,4 +46,8 @@ public class archivo2 {
 		
 		return a1*b1;
 	}
+	 public int bRestax(int num) {
+			
+			return b1-num;
+		}
 }

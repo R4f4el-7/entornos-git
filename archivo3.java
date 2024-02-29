@@ -41,5 +41,10 @@ public class archivo3 {
 	public void setEdad(int edad) {
 		this.edad = edad;
 	}
+
+	public int edadDuplicado() {
+		return edad*2;
+	}
+	
 	
 }
