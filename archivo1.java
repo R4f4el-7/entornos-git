@@ -58,4 +58,7 @@ public class archivo1 {
     public int xAlCuadrado(int num) {
     	return num*num;
     }
+    public void correcto() {
+    	System.out.println("correcto");
+    }
 }

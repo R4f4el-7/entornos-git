@@ -52,4 +52,7 @@ public class archivo3 {
 	public void volar() {
 		System.out.println("vuela");
 	}
+	public void vivo() {
+		System.out.println("vivo");
+	}
 }

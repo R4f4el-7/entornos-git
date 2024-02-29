@@ -58,4 +58,7 @@ public class archivo2 {
 	public int xAlCubo(int num) {
     	return num*num*num;
     }
+	public void correcto2() {
+    	System.out.println("correcto archivo2");
+    }
 }
