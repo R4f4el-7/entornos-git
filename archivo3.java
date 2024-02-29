@@ -49,4 +49,7 @@ public class archivo3 {
 	public void defuncion() {
 		System.out.println("muerto");
 	}
+	public void volar() {
+		System.out.println("vuela");
+	}
 }

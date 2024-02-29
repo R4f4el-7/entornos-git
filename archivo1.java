@@ -54,4 +54,8 @@ public class archivo1 {
 		
 		return b*num;
 	}
+    
+    public int xAlCuadrado(int num) {
+    	return num*num;
+    }
 }
