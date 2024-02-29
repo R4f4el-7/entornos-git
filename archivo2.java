@@ -49,5 +49,9 @@ public class archivo2 {
 	 public int bRestax(int num) {
 			
 			return b1-num;
-		}
+	}
+	public int bDivisionx(int num) {
+			
+		return b1/num;
+	}
 }

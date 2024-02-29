@@ -46,5 +46,7 @@ public class archivo3 {
 		return edad*2;
 	}
 	
-	
+	public void defuncion() {
+		System.out.println("muerto");
+	}
 }

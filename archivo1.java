@@ -50,4 +50,8 @@ public class archivo1 {
 		
 		return b+num;
 	}
+    public int bProductox(int num) {
+		
+		return b*num;
+	}
 }
