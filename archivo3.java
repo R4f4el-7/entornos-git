@@ -17,6 +17,12 @@ public class archivo3 {
 		this.apellido = apellido;
 		this.edad = edad;
 	}
+	public boolean mayorEdad(int edad) {
+		if (edad >= 18) {
+			return true;
+		}
+		return false;
+	}
 
 	public String getNombre() {
 		return nombre;

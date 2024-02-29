@@ -50,5 +50,9 @@ public class archivo2 {
 		
 		return a1/b1;
 	}
+	public int aAlCubo() {
+		
+		return a1*a1*a1;
+	}
 
 }

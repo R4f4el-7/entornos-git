@@ -50,4 +50,8 @@ public class archivo1 {
 		
 		return a-b;
 	}
+	public int aAlCuadrado() {
+		
+		return a*a;
+	}
 }
