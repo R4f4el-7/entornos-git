@@ -23,6 +23,9 @@ public class archivo3 {
 		}
 		return false;
 	}
+	public int nombreLongitud() {
+		return nombre.length();
+	}
 
 	public String getNombre() {
 		return nombre;

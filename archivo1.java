@@ -54,4 +54,8 @@ public class archivo1 {
 		
 		return a*a;
 	}
+	public int bAlCuadrado() {
+		
+		return b*b;
+	}
 }
