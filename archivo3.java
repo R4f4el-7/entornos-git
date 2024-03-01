@@ -17,6 +17,21 @@ public class archivo3 {
 		this.apellido = apellido;
 		this.edad = edad;
 	}
+	public boolean mayorEdad(int edad) {
+		if (edad >= 18) {
+			return true;
+		}
+		return false;
+	}
+	public int nombreLongitud() {
+		return nombre.length();
+	}
+	public int apellidoLongitud() {
+		return apellido.length();
+	}
+	public int sumaNomApe() {
+		return nombre.length() + apellido.length();
+	}
 
 	public String getNombre() {
 		return nombre;
@@ -44,6 +59,10 @@ public class archivo3 {
 
 	public int edadDuplicado() {
 		return edad*2;
+	}
+	@Override
+	public String toString() {
+		return "archivo3 [nombre=" + nombre + ", apellido=" + apellido + ", edad=" + edad + "]";
 	}
 	
 	public void defuncion() {

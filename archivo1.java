@@ -61,4 +61,24 @@ public class archivo1 {
     public void correcto() {
     	System.out.println("correcto");
     }
+	public int resta() {
+		
+		return a-b;
+	}
+	public int aAlCuadrado() {
+		
+		return a*a;
+	}
+	public int bAlCuadrado() {
+		
+		return b*b;
+	}
+	public int aSumax(int num){
+		
+		return a+num;
+	}
+	public int aRestax(int num){
+		
+		return a+num;
+	}
 }

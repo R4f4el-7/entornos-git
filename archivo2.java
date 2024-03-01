@@ -61,4 +61,25 @@ public class archivo2 {
 	public void correcto2() {
     	System.out.println("correcto archivo2");
     }
+	public int division() {
+		
+		return a1/b1;
+	}
+	public int aAlCubo() {
+		
+		return a1*a1*a1;
+	}
+	public int bAlCubo() {
+		
+		return b1*b1*b1;
+	}
+	public int aProductox(int num){
+		
+		return a1*num;
+	}
+	public int aDivisionx(int num){
+		
+		return a1/num;
+	}
+
 }
