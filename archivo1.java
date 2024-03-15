@@ -59,6 +59,7 @@ public class archivo1 {
     	return num*num;
     }
     public void correcto() {
+	    System.out.println("Incorrecto");
     	System.out.println("correcto");
     }
 	public int resta() {
