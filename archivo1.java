@@ -62,6 +62,9 @@ public class archivo1 {
 	    System.out.println("Incorrecto");
     	System.out.println("correcto");
     }
+	public void funcion1() {
+	    System.out.println("funcion1");
+    }
 	public int resta() {
 		
 		return a-b;
