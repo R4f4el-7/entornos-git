@@ -84,5 +84,7 @@ public class archivo2 {
 		
 		return a1/num;
 	}
-
+	public void funcion1() {
+	    System.out.println("funcion1");
+	}
 }
