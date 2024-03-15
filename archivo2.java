@@ -90,4 +90,7 @@ public class archivo2 {
 	public void funcion2() {
 	    System.out.println("funcion2");
 	}
+	public void funcion3() {
+	    System.out.println("funcion3");
+	}
 }
