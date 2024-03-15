@@ -61,6 +61,9 @@ public class archivo2 {
 	public void correcto2() {
     	System.out.println("correcto archivo2");
     }
+	public void correcto3() {
+    	System.out.println("correcto archivo2 otravez");
+    }
 	public int division() {
 		
 		return a1/b1;
