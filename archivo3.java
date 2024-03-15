@@ -74,4 +74,7 @@ public class archivo3 {
 	public void vivo() {
 		System.out.println("vivo");
 	}
+	public void funcion1(){
+		System.out.println("funcion1");
+	}
 }
