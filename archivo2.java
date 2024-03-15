@@ -87,4 +87,7 @@ public class archivo2 {
 	public void funcion1() {
 	    System.out.println("funcion1");
 	}
+	public void funcion2() {
+	    System.out.println("funcion2");
+	}
 }
