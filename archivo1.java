@@ -82,6 +82,9 @@ public class archivo1 {
 		
 		return a+num;
 	}
+	public void funcion9() {
+	    System.out.println("funcion9");
+    }
 	public void funcion1() {
 	    System.out.println("funcion1");
     }
@@ -114,4 +117,5 @@ public class archivo1 {
 		
 		return num;
 	}
+	
 }
