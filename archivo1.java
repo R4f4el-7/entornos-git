@@ -106,8 +106,12 @@ public class archivo1 {
 	public void funcion7() {
 	    System.out.println("funcion7");
     }
-	public int a(int num){
+	public int a1(int num){
 		
 		return a;
+	}
+	public int a(int num){
+		
+		return num;
 	}
 }
