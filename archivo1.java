@@ -97,4 +97,7 @@ public class archivo1 {
 	public void funcion5() {
 	    System.out.println("funcion5");
     }
+	public void funcion6() {
+	    System.out.println("funcion6");
+    }
 }
