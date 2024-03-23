@@ -100,4 +100,7 @@ public class archivo1 {
 	public void funcion6() {
 	    System.out.println("funcion6");
     }
+	public void funcion7() {
+	    System.out.println("funcion7");
+    }
 }
